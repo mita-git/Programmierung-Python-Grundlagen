@@ -348,3 +348,10 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# by mita 
+# quelle: https://stackoverflow.com/questions/35916658/how-to-git-ignore-ipython-notebook-checkpoints-anywhere-in-repository
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*.ipynb
