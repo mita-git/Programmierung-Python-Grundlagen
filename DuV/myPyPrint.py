@@ -1,0 +1,1 @@
+print("Dies ist ein .py Script")
