@@ -5,4 +5,4 @@
 - im Ordmer PKI<br>
   - Meine Jupyter Notebooks - Programmierung für KI (PKI)<br>
 - im Ordner DuV<br>
-  - Meine Jupyter Notebooks - Datenanalyse und Visualisierung<br>
+  - Meine Jupyter Notebooks - Datenanalyse und Visualisierung Da&Vir<br>
